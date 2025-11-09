@@ -1,0 +1,75 @@
+[
+  {
+    "mob": ["aquamirae:tortured_soul", "aquamirae:maw"],
+    "dimension": "minecraft:overworld",
+    "biome": ["minecraft:deep_frozen_ocean", "aquamirae:ice_maze"],
+    "result": "allow"
+  },
+  {
+    "mob": ["aquamirae:tortured_soul", "aquamirae:maw"],
+    "dimension": "minecraft:overworld",
+    "incontrol": true,
+    "result": "deny"
+  },
+
+  {
+    "mob": "alexsmobs:crocodile",
+    "dimension": "minecraft:overworld",
+    "biome": ["minecraft:river", "aquamirae:swamp"],
+    "result": "allow"
+  },
+  {
+    "mob": "alexsmobs:crocodile",
+    "dimension": "minecraft:overworld",
+    "incontrol": true,
+    "result": "deny"
+  },
+
+  {
+    "mob": "minecraft:zombie",
+    "dimension": "minecraft:overworld",
+    "when": "finalize",
+    "healthmultiply": 0.5,
+    "damagemultiply": 0.3,
+    "speedmultiply": 1.3,
+    "armorhelmet": ["32=minecraft:leather_helmet", "4=lfpirates:deckhand_helmet","4=lfpirates:fisherman_helmet","4=lfpirates:craftsman_helmet","4=lfpirates:sailor_red_tier_1_helmet","2=lfpirates:sailor_red_tier_2_helmet","lfpirates:sailor_red_tier_3_helmet","4=lfpirates:sailor_blue_tier_1_helmet","2=lfpirates:sailor_blue_tier_2_helmet","lfpirates:sailor_blue_tier_3_helmet","4=lfpirates:sailor_gray_tier_1_helmet","2=lfpirates:sailor_gray_tier_2_helmet","lfpirates:sailor_gray_tier_3_helmet","4=lfpirates:sailor_nordic_tier_1_helmet","2=lfpirates:sailor_nordic_tier_2_helmet","lfpirates:sailor_nordic_tier_3_helmet","4=lfpirates:pirate_tier_1_helmet","2=lfpirates:pirate_tier_2_helmet","lfpirates:pirate_tier_3_helmet","4=lfpirates:corsair_tier_1_helmet","2=lfpirates:corsair_tier_2_helmet","lfpirates:corsair_tier_3_helmet","4=lfpirates:merchant_1_helmet","2=lfpirates:merchant_2_helmet","lfpirates:merchant_3_helmet","4=lfpirates:skull_1_helmet","4=lfpirates:skull_2_helmet","2=lfpirates:skull_3_helmet","2=lfpirates:skull_4_helmet","lfpirates:skull_5_helmet"],
+    "armorchest": ["32=minecraft:leather_chestplate", "4=lfpirates:deckhand_chestplate","4=lfpirates:fisherman_chestplate","4=lfpirates:craftsman_chestplate","4=lfpirates:sailor_red_tier_1_chestplate","2=lfpirates:sailor_red_tier_2_chestplate","lfpirates:sailor_red_tier_3_chestplate","4=lfpirates:sailor_blue_tier_1_chestplate","2=lfpirates:sailor_blue_tier_2_chestplate","lfpirates:sailor_blue_tier_3_chestplate","4=lfpirates:sailor_gray_tier_1_chestplate","2=lfpirates:sailor_gray_tier_2_chestplate","lfpirates:sailor_gray_tier_3_chestplate","4=lfpirates:sailor_nordic_tier_1_chestplate","2=lfpirates:sailor_nordic_tier_2_chestplate","lfpirates:sailor_nordic_tier_3_chestplate","4=lfpirates:pirate_tier_1_chestplate","2=lfpirates:pirate_tier_2_chestplate","lfpirates:pirate_tier_3_chestplate","4=lfpirates:corsair_tier_1_chestplate","2=lfpirates:corsair_tier_2_chestplate","lfpirates:corsair_tier_3_chestplate","4=lfpirates:merchant_1_chestplate","2=lfpirates:merchant_2_chestplate","lfpirates:merchant_3_chestplate"],
+    "armorlegs": ["32=minecraft:leather_leggings", "4=lfpirates:deckhand_leggings","4=lfpirates:fisherman_leggings","4=lfpirates:craftsman_leggings","4=lfpirates:sailor_red_tier_1_leggings","2=lfpirates:sailor_red_tier_2_leggings","lfpirates:sailor_red_tier_3_leggings","4=lfpirates:sailor_blue_tier_1_leggings","2=lfpirates:sailor_blue_tier_2_leggings","lfpirates:sailor_blue_tier_3_leggings","4=lfpirates:sailor_gray_tier_1_leggings","2=lfpirates:sailor_gray_tier_2_leggings","lfpirates:sailor_gray_tier_3_leggings","4=lfpirates:sailor_nordic_tier_1_leggings","2=lfpirates:sailor_nordic_tier_2_leggings","lfpirates:sailor_nordic_tier_3_leggings","4=lfpirates:pirate_tier_1_leggings","2=lfpirates:pirate_tier_2_leggings","lfpirates:pirate_tier_3_leggings","4=lfpirates:corsair_tier_1_leggings","2=lfpirates:corsair_tier_2_leggings","lfpirates:corsair_tier_3_leggings","4=lfpirates:merchant_1_leggings","2=lfpirates:merchant_2_leggings","lfpirates:merchant_3_leggings"],
+    "armorboots": ["32=minecraft:leather_boots", "4=lfpirates:deckhand_boots","4=lfpirates:fisherman_boots","4=lfpirates:craftsman_boots","4=lfpirates:sailor_red_tier_1_boots","2=lfpirates:sailor_red_tier_2_boots","lfpirates:sailor_red_tier_3_boots","4=lfpirates:sailor_blue_tier_1_boots","2=lfpirates:sailor_blue_tier_2_boots","lfpirates:sailor_blue_tier_3_boots","4=lfpirates:sailor_gray_tier_1_boots","2=lfpirates:sailor_gray_tier_2_boots","lfpirates:sailor_gray_tier_3_boots","4=lfpirates:sailor_nordic_tier_1_boots","2=lfpirates:sailor_nordic_tier_2_boots","lfpirates:sailor_nordic_tier_3_boots","4=lfpirates:pirate_tier_1_boots","2=lfpirates:pirate_tier_2_boots","lfpirates:pirate_tier_3_boots","4=lfpirates:corsair_tier_1_boots","2=lfpirates:corsair_tier_2_boots","lfpirates:corsair_tier_3_boots","4=lfpirates:merchant_1_boots","2=lfpirates:merchant_2_boots","lfpirates:merchant_3_boots"],
+    "helditem": ["8=minecraft:stone_sword", "4=minecraft:golden_sword", "2=minecraft:iron_sword", "lfpirates:hook", "2=lfpirates:bone_cutlass", "2=lfpirates:poison_bone_cutlass", "4=lfpirates:iron_cutlass"]
+  },
+
+  {
+    "mob": "minecraft:skeleton",
+    "dimension": "minecraft:overworld",
+    "when": "finalize",
+    "healthmultiply": 0.5,
+    "result": "allow",
+    "armorhelmet": ["32=minecraft:leather_helmet", "4=lfpirates:deckhand_helmet","4=lfpirates:fisherman_helmet","4=lfpirates:craftsman_helmet","4=lfpirates:sailor_red_tier_1_helmet","2=lfpirates:sailor_red_tier_2_helmet","lfpirates:sailor_red_tier_3_helmet","4=lfpirates:sailor_blue_tier_1_helmet","2=lfpirates:sailor_blue_tier_2_helmet","lfpirates:sailor_blue_tier_3_helmet","4=lfpirates:sailor_gray_tier_1_helmet","2=lfpirates:sailor_gray_tier_2_helmet","lfpirates:sailor_gray_tier_3_helmet","4=lfpirates:sailor_nordic_tier_1_helmet","2=lfpirates:sailor_nordic_tier_2_helmet","lfpirates:sailor_nordic_tier_3_helmet","4=lfpirates:pirate_tier_1_helmet","2=lfpirates:pirate_tier_2_helmet","lfpirates:pirate_tier_3_helmet","4=lfpirates:corsair_tier_1_helmet","2=lfpirates:corsair_tier_2_helmet","lfpirates:corsair_tier_3_helmet","4=lfpirates:merchant_1_helmet","2=lfpirates:merchant_2_helmet","lfpirates:merchant_3_helmet","4=lfpirates:skull_1_helmet","4=lfpirates:skull_2_helmet","2=lfpirates:skull_3_helmet","2=lfpirates:skull_4_helmet","lfpirates:skull_5_helmet"],
+    "armorchest": ["32=minecraft:leather_chestplate", "4=lfpirates:deckhand_chestplate","4=lfpirates:fisherman_chestplate","4=lfpirates:craftsman_chestplate","4=lfpirates:sailor_red_tier_1_chestplate","2=lfpirates:sailor_red_tier_2_chestplate","lfpirates:sailor_red_tier_3_chestplate","4=lfpirates:sailor_blue_tier_1_chestplate","2=lfpirates:sailor_blue_tier_2_chestplate","lfpirates:sailor_blue_tier_3_chestplate","4=lfpirates:sailor_gray_tier_1_chestplate","2=lfpirates:sailor_gray_tier_2_chestplate","lfpirates:sailor_gray_tier_3_chestplate","4=lfpirates:sailor_nordic_tier_1_chestplate","2=lfpirates:sailor_nordic_tier_2_chestplate","lfpirates:sailor_nordic_tier_3_chestplate","4=lfpirates:pirate_tier_1_chestplate","2=lfpirates:pirate_tier_2_chestplate","lfpirates:pirate_tier_3_chestplate","4=lfpirates:corsair_tier_1_chestplate","2=lfpirates:corsair_tier_2_chestplate","lfpirates:corsair_tier_3_chestplate","4=lfpirates:merchant_1_chestplate","2=lfpirates:merchant_2_chestplate","lfpirates:merchant_3_chestplate"],
+    "armorlegs": ["32=minecraft:leather_leggings", "4=lfpirates:deckhand_leggings","4=lfpirates:fisherman_leggings","4=lfpirates:craftsman_leggings","4=lfpirates:sailor_red_tier_1_leggings","2=lfpirates:sailor_red_tier_2_leggings","lfpirates:sailor_red_tier_3_leggings","4=lfpirates:sailor_blue_tier_1_leggings","2=lfpirates:sailor_blue_tier_2_leggings","lfpirates:sailor_blue_tier_3_leggings","4=lfpirates:sailor_gray_tier_1_leggings","2=lfpirates:sailor_gray_tier_2_leggings","lfpirates:sailor_gray_tier_3_leggings","4=lfpirates:sailor_nordic_tier_1_leggings","2=lfpirates:sailor_nordic_tier_2_leggings","lfpirates:sailor_nordic_tier_3_leggings","4=lfpirates:pirate_tier_1_leggings","2=lfpirates:pirate_tier_2_leggings","lfpirates:pirate_tier_3_leggings","4=lfpirates:corsair_tier_1_leggings","2=lfpirates:corsair_tier_2_leggings","lfpirates:corsair_tier_3_leggings","4=lfpirates:merchant_1_leggings","2=lfpirates:merchant_2_leggings","lfpirates:merchant_3_leggings"],
+    "armorboots": ["32=minecraft:leather_boots", "4=lfpirates:deckhand_boots","4=lfpirates:fisherman_boots","4=lfpirates:craftsman_boots","4=lfpirates:sailor_red_tier_1_boots","2=lfpirates:sailor_red_tier_2_boots","lfpirates:sailor_red_tier_3_boots","4=lfpirates:sailor_blue_tier_1_boots","2=lfpirates:sailor_blue_tier_2_boots","lfpirates:sailor_blue_tier_3_boots","4=lfpirates:sailor_gray_tier_1_boots","2=lfpirates:sailor_gray_tier_2_boots","lfpirates:sailor_gray_tier_3_boots","4=lfpirates:sailor_nordic_tier_1_boots","2=lfpirates:sailor_nordic_tier_2_boots","lfpirates:sailor_nordic_tier_3_boots","4=lfpirates:pirate_tier_1_boots","2=lfpirates:pirate_tier_2_boots","lfpirates:pirate_tier_3_boots","4=lfpirates:corsair_tier_1_boots","2=lfpirates:corsair_tier_2_boots","lfpirates:corsair_tier_3_boots","4=lfpirates:merchant_1_boots","2=lfpirates:merchant_2_boots","lfpirates:merchant_3_boots"],
+    "helditem": ["64=minecraft:bow", "8=minecraft:stone_sword", "4=minecraft:golden_sword", "2=minecraft:iron_sword", "lfpirates:hook", "2=lfpirates:bone_cutlass", "2=lfpirates:poison_bone_cutlass", "4=lfpirates:iron_cutlass"]
+  },
+
+  {
+    "mob": "minecraft:drowned",
+    "dimension": "minecraft:overworld",
+    "when": "finalize",
+    "healthmultiply": 0.5,
+    "damagemultiply": 0.3,
+    "speedmultiply": 1.6,
+    "armorhelmet": ["32=minecraft:leather_helmet", "4=lfpirates:deckhand_helmet","4=lfpirates:fisherman_helmet","4=lfpirates:craftsman_helmet","4=lfpirates:sailor_red_tier_1_helmet","2=lfpirates:sailor_red_tier_2_helmet","lfpirates:sailor_red_tier_3_helmet","4=lfpirates:sailor_blue_tier_1_helmet","2=lfpirates:sailor_blue_tier_2_helmet","lfpirates:sailor_blue_tier_3_helmet","4=lfpirates:sailor_gray_tier_1_helmet","2=lfpirates:sailor_gray_tier_2_helmet","lfpirates:sailor_gray_tier_3_helmet","4=lfpirates:sailor_nordic_tier_1_helmet","2=lfpirates:sailor_nordic_tier_2_helmet","lfpirates:sailor_nordic_tier_3_helmet","4=lfpirates:pirate_tier_1_helmet","2=lfpirates:pirate_tier_2_helmet","lfpirates:pirate_tier_3_helmet","4=lfpirates:corsair_tier_1_helmet","2=lfpirates:corsair_tier_2_helmet","lfpirates:corsair_tier_3_helmet","4=lfpirates:merchant_1_helmet","2=lfpirates:merchant_2_helmet","lfpirates:merchant_3_helmet","4=lfpirates:skull_1_helmet","4=lfpirates:skull_2_helmet","2=lfpirates:skull_3_helmet","2=lfpirates:skull_4_helmet","lfpirates:skull_5_helmet"],
+    "armorchest": ["32=minecraft:leather_chestplate", "4=lfpirates:deckhand_chestplate","4=lfpirates:fisherman_chestplate","4=lfpirates:craftsman_chestplate","4=lfpirates:sailor_red_tier_1_chestplate","2=lfpirates:sailor_red_tier_2_chestplate","lfpirates:sailor_red_tier_3_chestplate","4=lfpirates:sailor_blue_tier_1_chestplate","2=lfpirates:sailor_blue_tier_2_chestplate","lfpirates:sailor_blue_tier_3_chestplate","4=lfpirates:sailor_gray_tier_1_chestplate","2=lfpirates:sailor_gray_tier_2_chestplate","lfpirates:sailor_gray_tier_3_chestplate","4=lfpirates:sailor_nordic_tier_1_chestplate","2=lfpirates:sailor_nordic_tier_2_chestplate","lfpirates:sailor_nordic_tier_3_chestplate","4=lfpirates:pirate_tier_1_chestplate","2=lfpirates:pirate_tier_2_chestplate","lfpirates:pirate_tier_3_chestplate","4=lfpirates:corsair_tier_1_chestplate","2=lfpirates:corsair_tier_2_chestplate","lfpirates:corsair_tier_3_chestplate","4=lfpirates:merchant_1_chestplate","2=lfpirates:merchant_2_chestplate","lfpirates:merchant_3_chestplate"],
+    "armorlegs": ["32=minecraft:leather_leggings", "4=lfpirates:deckhand_leggings","4=lfpirates:fisherman_leggings","4=lfpirates:craftsman_leggings","4=lfpirates:sailor_red_tier_1_leggings","2=lfpirates:sailor_red_tier_2_leggings","lfpirates:sailor_red_tier_3_leggings","4=lfpirates:sailor_blue_tier_1_leggings","2=lfpirates:sailor_blue_tier_2_leggings","lfpirates:sailor_blue_tier_3_leggings","4=lfpirates:sailor_gray_tier_1_leggings","2=lfpirates:sailor_gray_tier_2_leggings","lfpirates:sailor_gray_tier_3_leggings","4=lfpirates:sailor_nordic_tier_1_leggings","2=lfpirates:sailor_nordic_tier_2_leggings","lfpirates:sailor_nordic_tier_3_leggings","4=lfpirates:pirate_tier_1_leggings","2=lfpirates:pirate_tier_2_leggings","lfpirates:pirate_tier_3_leggings","4=lfpirates:corsair_tier_1_leggings","2=lfpirates:corsair_tier_2_leggings","lfpirates:corsair_tier_3_leggings","4=lfpirates:merchant_1_leggings","2=lfpirates:merchant_2_leggings","lfpirates:merchant_3_leggings"],
+    "armorboots": ["32=minecraft:leather_boots", "4=lfpirates:deckhand_boots","4=lfpirates:fisherman_boots","4=lfpirates:craftsman_boots","4=lfpirates:sailor_red_tier_1_boots","2=lfpirates:sailor_red_tier_2_boots","lfpirates:sailor_red_tier_3_boots","4=lfpirates:sailor_blue_tier_1_boots","2=lfpirates:sailor_blue_tier_2_boots","lfpirates:sailor_blue_tier_3_boots","4=lfpirates:sailor_gray_tier_1_boots","2=lfpirates:sailor_gray_tier_2_boots","lfpirates:sailor_gray_tier_3_boots","4=lfpirates:sailor_nordic_tier_1_boots","2=lfpirates:sailor_nordic_tier_2_boots","lfpirates:sailor_nordic_tier_3_boots","4=lfpirates:pirate_tier_1_boots","2=lfpirates:pirate_tier_2_boots","lfpirates:pirate_tier_3_boots","4=lfpirates:corsair_tier_1_boots","2=lfpirates:corsair_tier_2_boots","lfpirates:corsair_tier_3_boots","4=lfpirates:merchant_1_boots","2=lfpirates:merchant_2_boots","lfpirates:merchant_3_boots"],
+    "helditem": ["8=minecraft:stone_sword", "4=minecraft:golden_sword", "2=minecraft:iron_sword", "lfpirates:hook", "2=lfpirates:bone_cutlass", "2=lfpirates:poison_bone_cutlass", "4=lfpirates:iron_cutlass"]
+  },
+
+  {
+    "mob": ["minecraft:zombie", "minecraft:drowned"],
+    "when": "onjoin",
+    "baby": true,
+    "result": "deny"
+  }
+]

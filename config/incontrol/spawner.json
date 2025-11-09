@@ -1,0 +1,189 @@
+[
+
+{
+"mob": "minecraft:skeleton",
+"persecond": 0.01,
+"attempts": 10,
+"amount": {"minimum": 20, "maximum": 90},
+"conditions": {
+	"dimension": ["minecraft:overworld"],
+	"norestrictions": true,
+	"mindist": 32,
+	"maxdist": 80,
+	"maxthis": 150
+	}
+},
+
+{
+"mob": "minecraft:zombie",
+"persecond": 0.01,
+"attempts": 10,
+"amount": {"minimum": 20, "maximum": 90},
+"conditions": {
+	"dimension": ["minecraft:overworld"],
+	"norestrictions": true,
+	"mindist": 32,
+	"maxdist": 80,
+	"maxthis": 150
+	}
+},
+
+{
+"mob": "minecraft:drowned",
+"persecond": 0.01,
+"attempts": 10,
+"amount": {"minimum": 20, "maximum": 90},
+"conditions": {
+	"dimension": ["minecraft:overworld"],
+	"inwater": true,
+	"norestrictions": true,	
+	"mindist": 32,
+	"maxdist": 80,
+	"maxthis": 150
+	}
+},
+
+
+{
+"mob": "aquamirae:tortured_soul",
+"persecond": 0.1,
+"attempts": 5,
+"amount": {"minimum": 20, "maximum": 90},
+"conditions": {
+	"dimension": ["minecraft:overworld"],
+	"mindist": 32,
+	"maxdist": 80,
+	"minheight": 125,
+	"maxheight": 256,
+	"maxthis": 50
+	}
+},
+
+{
+"mob": "aquamirae:maw",
+"persecond": 0.1,
+"attempts": 10,
+"amount": {"minimum": 20, "maximum": 90},
+"conditions": {
+	"dimension": ["minecraft:overworld"],
+	"mindist": 16,
+	"maxdist": 64,
+	"minheight": 125,
+	"maxheight": 256,
+	"maxthis": 50
+	}
+},
+
+{
+"mob": "alexsmobs:skelewag",
+"persecond": 0.03,
+"attempts": 1,
+"amount": {"minimum": 20, "maximum": 90},
+"conditions": {
+	"dimension": ["minecraft:overworld"],
+	"inwater": true,
+	"mindist": 16,
+	"maxdist": 80,
+	"minheight": 120,
+	"maxheight": 126,
+	"maxthis": 50
+	}
+},
+
+{
+"mob": "aquamirae:anglerfish",
+"persecond": 0.008,
+"attempts": 1,
+"amount": {"minimum": 20, "maximum": 90},
+"conditions": {
+	"dimension": ["minecraft:overworld"],
+	"inwater": true,
+	"mindist": 32,
+	"maxdist": 64,
+	"minheight": 0,
+	"maxheight": 120,
+	"maxthis": 50
+	}
+},
+
+{
+"mob": "aquamirae:anglerfish",
+"persecond": 0.05,
+"attempts": 1,
+"amount": {"minimum": 20, "maximum": 90},
+"conditions": {
+	"dimension": ["minecraft:overworld"],
+	"inwater": true,
+	"mindist": 32,
+	"maxdist": 64,
+	"minheight": 0,
+	"maxheight": 64,
+	"maxthis": 50
+	}
+},
+
+{
+"mob": "alexsmobs:cachalot_whale",
+"persecond": 0.001,
+"attempts": 1,
+"amount": {"minimum": 20, "maximum": 90},
+"conditions": {
+	"dimension": ["minecraft:overworld"],
+	"inwater": true,
+	"mindist": 16,
+	"maxdist": 64,
+	"minheight": 48,
+	"maxheight": 126,
+	"maxthis": 50
+	}
+},
+
+{
+"mob": "alexsmobs:hammerhead_shark",
+"persecond": 0.004,
+"attempts": 1,
+"amount": {"minimum": 20, "maximum": 90},
+"conditions": {
+	"dimension": ["minecraft:overworld"],
+	"inwater": true,
+	"mindist": 16,
+	"maxdist": 64,
+	"minheight": 48,
+	"maxheight": 126,
+	"maxthis": 50
+	}
+},
+
+{
+"mob": "alexsmobs:crocodile",
+"persecond": 0.004,
+"attempts": 1,
+"amount": {"minimum": 20, "maximum": 90},
+"conditions": {
+	"dimension": ["minecraft:overworld"],
+	"inwater": true,
+	"mindist": 16,
+	"maxdist": 64,
+	"minheight": 48,
+	"maxheight": 126,
+	"maxthis": 50
+	}
+},
+
+{
+"mob": "minecraft:squid",
+"persecond": 0.008,
+"attempts": 1,
+"amount": {"minimum": 20, "maximum": 90},
+"conditions": {
+	"dimension": ["minecraft:overworld"],
+	"inwater": true,
+	"mindist": 16,
+	"maxdist": 64,
+	"minheight": 48,
+	"maxheight": 126,
+	"maxthis": 50
+	}
+}
+
+]

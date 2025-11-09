@@ -1,0 +1,3 @@
+craftingTable.addShapeless("custom_undead_soul_pickaxe", <item:endrem:undead_soul>, [<item:minecraft:skeleton_skull>, <item:alexsmobs:ghostly_pickaxe>, <item:quark:soul_bead>, <item:alexsmobs:soul_heart>]);
+
+craftingTable.addShapeless("custom_undead_soul_helmet", <item:endrem:undead_soul>, [<item:minecraft:skeleton_skull>, <item:aquamirae:three_bolt_helmet>, <item:quark:soul_bead>, <item:alexsmobs:soul_heart>]);
