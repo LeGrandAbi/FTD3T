@@ -1,1 +1,9 @@
-[]
+[
+	{"mob": ["minecraft:skeleton"], "item": "minecraft:rotten_flesh", "random":0.5, "itemcount": "1-2"},
+
+	{"mob": ["minecraft:zombie", "minecraft:drowned"], "item": "minecraft:bone", "random":0.5, "itemcount": "1-2"},
+	{"mob": ["minecraft:enderman", "minecraft:creeper"], "item": "minecraft:bone", "random":0.5, "itemcount": "1-2"},
+
+	{"mob": ["minecraft:skeleton", "minecraft:zombie"], "item": "seadwellers:aquamarine", "random":0.05, "itemcount": "1"}
+
+]
