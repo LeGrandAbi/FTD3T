@@ -28,6 +28,7 @@
   {
     "mob": "minecraft:zombie",
     "dimension": "minecraft:overworld",
+    "minheight": 96,
     "when": "finalize",
     "healthmultiply": 0.5,
     "damagemultiply": 0.3,
@@ -42,6 +43,7 @@
   {
     "mob": "minecraft:skeleton",
     "dimension": "minecraft:overworld",
+    "minheight": 96,
     "when": "finalize",
     "healthmultiply": 0.5,
     "result": "allow",
