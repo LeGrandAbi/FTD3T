@@ -1,1 +1,2 @@
 gamerule playersSleepingPercentage 60
+gamerule doImmediateRespawn true
