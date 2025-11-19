@@ -92,32 +92,16 @@
 
 {
 "mob": "aquamirae:anglerfish",
-"persecond": 0.008,
+"persecond": 0.02,
 "attempts": 1,
 "amount": {"minimum": 20, "maximum": 90},
 "conditions": {
 	"dimension": ["minecraft:overworld"],
 	"inwater": true,
-	"mindist": 32,
+	"mindist": 16,
 	"maxdist": 64,
 	"minheight": 0,
-	"maxheight": 120,
-	"maxthis": 50
-	}
-},
-
-{
-"mob": "aquamirae:anglerfish",
-"persecond": 0.05,
-"attempts": 1,
-"amount": {"minimum": 20, "maximum": 90},
-"conditions": {
-	"dimension": ["minecraft:overworld"],
-	"inwater": true,
-	"mindist": 32,
-	"maxdist": 64,
-	"minheight": 0,
-	"maxheight": 64,
+	"maxheight": 112,
 	"maxthis": 50
 	}
 },
