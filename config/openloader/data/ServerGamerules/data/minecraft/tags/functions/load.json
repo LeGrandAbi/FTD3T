@@ -1,0 +1,6 @@
+{
+  "values": [
+    "server_gamerules:load",
+    "server_gamerules:rules"
+  ]
+}
