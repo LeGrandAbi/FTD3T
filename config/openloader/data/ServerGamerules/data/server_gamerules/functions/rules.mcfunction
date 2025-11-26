@@ -1,2 +1,3 @@
 gamerule playersSleepingPercentage 60
-gamerule doImmediateRespawn true
+gamerule showDeathMessages false
+gamerule announceAdvancements false
