@@ -84,7 +84,7 @@
   },
 
   {
-    "mob": ["minecraft:skeleton", "minecraft:wither_skeleton", "minecraft:blaze", "minecraft:hoglin", "minecraft:piglin", "minecraft:piglin_brute", "minecraft:zombified_piglin", "minecraft:zoglin", "quark:foxhound", "alexsmobs:crimson_mosquito", "alexsmobs:dropbear"],
+    "mob": ["minecraft:skeleton", "minecraft:wither_skeleton", "minecraft:blaze", "minecraft:hoglin", "minecraft:piglin", "minecraft:piglin_brute", "minecraft:zombified_piglin", "minecraft:zoglin", "quark:foxhound", "alexsmobs:crimson_mosquito", "alexsmobs:dropbear", "alexsmobs:straddler", "alexsmobs:stradpole"],
     "dimension": "minecraft:the_nether",
     "when": "finalize",
     "healthmultiply": 1.5,
