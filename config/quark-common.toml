@@ -1713,7 +1713,7 @@
 		"Enchantments To Register" = []
 
 	[experimental.enchantments_begone]
-		"Enchantments To Begone" = ["minecraft:depth_strider", "minecraft:respiration", "minecraft:frost_walker"]
+		"Enchantments To Begone" = ["minecraft:riptide", "minecraft:depth_strider", "minecraft:respiration", "minecraft:frost_walker"]
 
 	[experimental.game_nerfs]
 		#Makes Mending act like the Unmending mod
