@@ -73,5 +73,13 @@
     "when": "onjoin",
     "baby": true,
     "result": "deny"
+  },
+
+  {
+    "mob": "alexsmobs:dropbear",
+    "dimension": "minecraft:the_nether",
+    "minheight": 128,
+    "when": "finalize",
+    "result": "deny"
   }
 ]

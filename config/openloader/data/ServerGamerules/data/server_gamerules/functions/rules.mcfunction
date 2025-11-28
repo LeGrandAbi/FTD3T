@@ -1,3 +1,3 @@
-gamerule playersSleepingPercentage 60
+gamerule playersSleepingPercentage 40
 gamerule showDeathMessages false
 gamerule announceAdvancements false
