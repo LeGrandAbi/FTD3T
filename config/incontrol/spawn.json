@@ -81,5 +81,14 @@
     "minheight": 128,
     "when": "finalize",
     "result": "deny"
+  },
+
+  {
+    "mob": ["minecraft:skeleton", "minecraft:wither_skeleton", "minecraft:blaze", "minecraft:hoglin", "minecraft:piglin", "minecraft:piglin_brute", "minecraft:zombified_piglin", "minecraft:zoglin", "quark:foxhound", "alexsmobs:crimson_mosquito", "alexsmobs:dropbear"],
+    "dimension": "minecraft:the_nether",
+    "when": "finalize",
+    "healthmultiply": 1.5,
+    "damagemultiply": 1.2,
+    "speedmultiply": 1.3
   }
 ]
