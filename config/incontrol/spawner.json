@@ -172,15 +172,15 @@
 
 {
 "mob": "minecraft:ghast",
-"persecond": 0.015,
+"persecond": 0.05,
 "attempts": 1,
 "amount": {"minimum": 20, "maximum": 90},
 "conditions": {
 	"dimension": ["minecraft:the_nether"],
 	"inair": true,
 	"norestrictions": true,
-	"mindist": 32,
-	"maxdist": 64,
+	"mindist": 16,
+	"maxdist": 48,
 	"maxheight": 126,
 	"maxthis": 50
 	}
