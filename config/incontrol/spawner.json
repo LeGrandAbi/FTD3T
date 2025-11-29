@@ -178,8 +178,10 @@
 "conditions": {
 	"dimension": ["minecraft:the_nether"],
 	"inair": true,
+	"norestrictions": true,
 	"mindist": 32,
 	"maxdist": 64,
+	"maxheight": 126,
 	"maxthis": 50
 	}
 }
