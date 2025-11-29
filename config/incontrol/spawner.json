@@ -196,7 +196,7 @@
 	"inair": true,
 	"mindist": 16,
 	"maxdist": 64,
-	"minheight": 128,
+	"minheight": 144,
 	"maxthis": 50
 	}
 }
