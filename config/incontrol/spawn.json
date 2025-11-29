@@ -1,12 +1,12 @@
 [
   {
-    "mob": ["aquamirae:tortured_soul", "aquamirae:maw"],
+    "mob": ["aquamirae:tortured_soul", "aquamirae:maw", "alexsmobs:soul_vulture"],
     "dimension": "minecraft:overworld",
     "biome": ["minecraft:deep_frozen_ocean", "aquamirae:ice_maze"],
     "result": "allow"
   },
   {
-    "mob": ["aquamirae:tortured_soul", "aquamirae:maw"],
+    "mob": ["aquamirae:tortured_soul", "aquamirae:maw", "alexsmobs:soul_vulture"],
     "dimension": "minecraft:overworld",
     "incontrol": true,
     "result": "deny"
