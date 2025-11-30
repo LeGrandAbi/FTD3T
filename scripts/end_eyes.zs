@@ -4,8 +4,6 @@ craftingTable.addShapeless("custom_magical_eye", <item:endrem:magical_eye>, [<it
 
 craftingTable.addShaped("custom_cold_eye", <item:endrem:cold_eye>, [[<item:aquamirae:abyssal_amethyst>, <item:minecraft:blue_ice>, <item:aquamirae:abyssal_amethyst>], [<item:minecraft:blue_ice>, <item:minecraft:ender_eye>, <item:minecraft:blue_ice>], [<item:aquamirae:abyssal_amethyst>, <item:minecraft:blue_ice>, <item:aquamirae:abyssal_amethyst>]]);
 
-craftingTable.addShaped("custom_cryptic_eye", <item:endrem:cryptic_eye>, [[<item:minecraft:creeper_head>, <item:alexsmobs:hemolymph_sac>, <item:alexsmobs:cachalot_whale_tooth>], [<item:seadwellers:gold_relics>, <item:minecraft:ender_eye>, <item:aquamirae:poseidons_breakfast>], [<item:quark:diamond_heart>, <item:aquaculture:tin_can>, <item:seadwellers:depth_block>]]);
-
 // 			ADDING ENDER EYE RECIPES WITH LEGENDARY FISH
 
 craftingTable.addShapeless("custom_fish_cursed_eye", <item:endrem:cursed_eye>, [<item:stardew_fishing:demon_gar>]);
