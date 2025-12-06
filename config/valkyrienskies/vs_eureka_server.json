@@ -18,7 +18,7 @@
   "floaterBuoyantFactorPerKg" : 50000.0,
   "maxFloaterBuoyantFactor" : 1.0,
   "speedMassScale" : 5.0,
-  "baseSpeed" : 5.0,
+  "baseSpeed" : 8.0,
   "baseImpulseElevationRate" : 2.0,
   "baseImpulseDescendRate" : 4.0,
   "balloonElevationMaxSpeed" : 5.5,
