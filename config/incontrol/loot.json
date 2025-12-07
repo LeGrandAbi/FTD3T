@@ -4,6 +4,8 @@
 	{"mob": ["minecraft:zombie", "minecraft:drowned"], "item": "minecraft:bone", "random":0.5, "itemcount": "1-2"},
 	{"mob": ["minecraft:enderman", "minecraft:creeper"], "item": "minecraft:bone", "random":0.5, "itemcount": "1-2"},
 
-	{"mob": ["minecraft:skeleton", "minecraft:zombie"], "item": "seadwellers:aquamarine", "random":0.05, "itemcount": "1"}
+	{"mob": ["minecraft:skeleton", "minecraft:zombie"], "item": "seadwellers:aquamarine", "random":0.05, "itemcount": "1"},
 
+	{"mob": ["oceanicrealms:porbeagle_shark", "oceanicrealms:whaleshark"], "item": "minecraft:heart_of_the_sea", "random":0.2, "itemcount": "1"},
+	{"mob": ["oceanicrealms:great_white_shark"], "item": "minecraft:heart_of_the_sea", "random":0.7, "itemcount": "1"}
 ]
