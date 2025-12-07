@@ -6,7 +6,6 @@
 
 	{"mob": ["minecraft:skeleton", "minecraft:zombie"], "item": "seadwellers:aquamarine", "random":0.05, "itemcount": "1"},
 
-	{"mob": ["oceanicrealms:great_white_shark"], "item": "minecraft:heart_of_the_sea", "random":1, "itemcount": "1"},
-	{"mob": ["oceanicrealms:whaleshark"], "item": "minecraft:heart_of_the_sea", "random":0.5, "itemcount": "1"}
-	{"mob": ["oceanicrealms:porbeagle_shark"], "item": "minecraft:heart_of_the_sea", "random":0.2, "itemcount": "1"},
+	{"mob": ["oceanicrealms:great_white_shark"], "item": "minecraft:heart_of_the_sea", "random":0.33, "itemcount": "1"}
+	{"mob": ["alexsmobs:cachalot_whale"], "item": "minecraft:heart_of_the_sea", "random":0.5, "itemcount": "1"}
 ]
