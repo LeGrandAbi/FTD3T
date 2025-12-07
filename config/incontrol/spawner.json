@@ -203,8 +203,8 @@
 
 {
 "mob": "oceanicrealms:dolphinfish",
-"persecond": 0.002,
-"attempts": 5,
+"persecond": 0.005,
+"attempts": 1,
 "amount": {"minimum": 20, "maximum": 90},
 "conditions": {
 	"dimension": ["minecraft:overworld"],
@@ -212,16 +212,16 @@
 	"norestrictions": true,
 	"mindist": 16,
 	"maxdist": 64,
-	"minheight": 48,
-	"maxheight": 112,
+	"minheight": 0,
+	"maxheight": 96,
 	"maxthis": 50
 	}
 },
 
 {
 "mob": "oceanicrealms:lionfish",
-"persecond": 0.0021,
-"attempts": 5,
+"persecond": 0.005,
+"attempts": 1,
 "amount": {"minimum": 20, "maximum": 90},
 "conditions": {
 	"dimension": ["minecraft:overworld"],
@@ -229,16 +229,16 @@
 	"norestrictions": true,
 	"mindist": 16,
 	"maxdist": 64,
-	"minheight": 48,
-	"maxheight": 112,
+	"minheight": 0,
+	"maxheight": 96,
 	"maxthis": 50
 	}
 },
 
 {
 "mob": "oceanicrealms:silver_pomfret_fish",
-"persecond": 0.0022,
-"attempts": 5,
+"persecond": 0.0075,
+"attempts": 1,
 "amount": {"minimum": 20, "maximum": 90},
 "conditions": {
 	"dimension": ["minecraft:overworld"],
@@ -246,16 +246,16 @@
 	"norestrictions": true,
 	"mindist": 16,
 	"maxdist": 64,
-	"minheight": 48,
-	"maxheight": 112,
+	"minheight": 0,
+	"maxheight": 96,
 	"maxthis": 50
 	}
 },
 
 {
 "mob": "oceanicrealms:sailfish",
-"persecond": 0.0023,
-"attempts": 5,
+"persecond": 0.0075,
+"attempts": 1,
 "amount": {"minimum": 20, "maximum": 90},
 "conditions": {
 	"dimension": ["minecraft:overworld"],
@@ -263,16 +263,16 @@
 	"norestrictions": true,
 	"mindist": 16,
 	"maxdist": 64,
-	"minheight": 48,
-	"maxheight": 112,
+	"minheight": 0,
+	"maxheight": 96,
 	"maxthis": 50
 	}
 },
 
 {
 "mob": "oceanicrealms:mackerel_fish",
-"persecond": 0.0024,
-"attempts": 5,
+"persecond": 0.01,
+"attempts": 1,
 "amount": {"minimum": 20, "maximum": 90},
 "conditions": {
 	"dimension": ["minecraft:overworld"],
@@ -280,16 +280,16 @@
 	"norestrictions": true,
 	"mindist": 16,
 	"maxdist": 64,
-	"minheight": 48,
-	"maxheight": 112,
+	"minheight": 0,
+	"maxheight": 96,
 	"maxthis": 50
 	}
 },
 
 {
 "mob": "oceanicrealms:tuna",
-"persecond": 0.0025,
-"attempts": 5,
+"persecond": 0.015,
+"attempts": 1,
 "amount": {"minimum": 20, "maximum": 90},
 "conditions": {
 	"dimension": ["minecraft:overworld"],
@@ -297,16 +297,16 @@
 	"norestrictions": true,
 	"mindist": 16,
 	"maxdist": 64,
-	"minheight": 48,
-	"maxheight": 112,
+	"minheight": 0,
+	"maxheight": 96,
 	"maxthis": 50
 	}
 },
 
 {
 "mob": "oceanicrealms:porbeagle_shark",
-"persecond": 0.002,
-"attempts": 5,
+"persecond": 0.01,
+"attempts": 1,
 "amount": {"minimum": 20, "maximum": 90},
 "conditions": {
 	"dimension": ["minecraft:overworld"],
@@ -314,15 +314,15 @@
 	"norestrictions": true,
 	"mindist": 16,
 	"maxdist": 64,
-	"minheight": 48,
-	"maxheight": 112,
+	"minheight": 0,
+	"maxheight": 96,
 	"maxthis": 50
 	}
 },
 
 {
 "mob": "oceanicrealms:great_white_shark",
-"persecond": 0.002,
+"persecond": 0.005,
 "attempts": 1,
 "amount": {"minimum": 20, "maximum": 90},
 "conditions": {
@@ -332,7 +332,7 @@
 	"mindist": 16,
 	"maxdist": 64,
 	"minheight": 48,
-	"maxheight": 112,
+	"maxheight": 96,
 	"maxthis": 50
 	}
 },
@@ -349,7 +349,7 @@
 	"mindist": 16,
 	"maxdist": 64,
 	"minheight": 48,
-	"maxheight": 112,
+	"maxheight": 96,
 	"maxthis": 50
 	}
 }
