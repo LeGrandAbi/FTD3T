@@ -1,3 +1,0 @@
-craftingTable.removeByName("jgpg:gun_and_ammo_crafting_block");
-
-craftingTable.addShaped("custom_gun_crafting_table", <item:jgpg:gun_crafting_station_block>, [[<item:minecraft:paper>,<item:minecraft:dark_oak_planks>,<item:minecraft:paper>],[<item:minecraft:dark_oak_planks>,<item:minecraft:anvil>,<item:minecraft:dark_oak_planks>],[<item:seadwellers:depth_ingot>,<item:minecraft:iron_block>,<item:seadwellers:depth_ingot>]]);
