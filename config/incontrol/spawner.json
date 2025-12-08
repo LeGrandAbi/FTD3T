@@ -92,7 +92,7 @@
 
 {
 "mob": "aquamirae:anglerfish",
-"persecond": 0.01,
+"persecond": 0.025,
 "attempts": 1,
 "amount": {"minimum": 20, "maximum": 90},
 "conditions": {
@@ -202,25 +202,8 @@
 },
 
 {
-"mob": ["oceanicrealms:dolphinfish", "oceanicrealms:lionfish", "oceanicrealms:silver_pomfret_fish", "oceanicrealms:sailfish", "oceanicrealms:mackerel_fish", "oceanicrealms:tuna"],
-"persecond": 0.0075,
-"attempts": 1,
-"amount": {"minimum": 20, "maximum": 90},
-"conditions": {
-	"dimension": ["minecraft:overworld"],
-	"inwater": true,
-	"norestrictions": true,
-	"mindist": 16,
-	"maxdist": 96,
-	"minheight": 16,
-	"maxheight": 96,
-	"maxthis": 50
-	}
-},
-
-{
 "mob": "oceanicrealms:porbeagle_shark",
-"persecond": 0.01,
+"persecond": 0.02,
 "attempts": 1,
 "amount": {"minimum": 20, "maximum": 90},
 "conditions": {
@@ -271,7 +254,7 @@
 
 {
 "mob": "alexsmobs:seagull",
-"persecond": 0.1,
+"persecond": 0.05,
 "attempts": 1,
 "amount": {"minimum": 20, "maximum": 90},
 "conditions": {
@@ -283,6 +266,128 @@
 	"maxheight": 136,
 	"maxthis": 50
 	}
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"mob": "oceanicrealms:dolphinfish",
+"persecond": 0.05,
+"attempts": 1,
+"amount": {"minimum": 20, "maximum": 90},
+"conditions": {
+	"dimension": ["minecraft:overworld"],
+	"inwater": true,
+	"norestrictions": true,
+	"mindist": 16,
+	"maxdist": 96,
+	"minheight": 16,
+	"maxheight": 96,
+	"maxthis": 50
+	}
+},
+
+{
+"mob": "oceanicrealms:lionfish",
+"persecond": 0.06,
+"attempts": 1,
+"amount": {"minimum": 20, "maximum": 90},
+"conditions": {
+	"dimension": ["minecraft:overworld"],
+	"inwater": true,
+	"norestrictions": true,
+	"mindist": 16,
+	"maxdist": 96,
+	"minheight": 16,
+	"maxheight": 96,
+	"maxthis": 50
+	}
+},
+
+{
+"mob": "oceanicrealms:silver_pomfret_fish",
+"persecond": 0.07,
+"attempts": 1,
+"amount": {"minimum": 20, "maximum": 90},
+"conditions": {
+	"dimension": ["minecraft:overworld"],
+	"inwater": true,
+	"norestrictions": true,
+	"mindist": 16,
+	"maxdist": 96,
+	"minheight": 16,
+	"maxheight": 96,
+	"maxthis": 50
+	}
+},
+
+{
+"mob": "oceanicrealms:sailfish",
+"persecond": 0.08,
+"attempts": 1,
+"amount": {"minimum": 20, "maximum": 90},
+"conditions": {
+	"dimension": ["minecraft:overworld"],
+	"inwater": true,
+	"norestrictions": true,
+	"mindist": 16,
+	"maxdist": 96,
+	"minheight": 16,
+	"maxheight": 96,
+	"maxthis": 50
+	}
+},
+
+{
+"mob": "oceanicrealms:mackerel_fish",
+"persecond": 0.09,
+"attempts": 1,
+"amount": {"minimum": 20, "maximum": 90},
+"conditions": {
+	"dimension": ["minecraft:overworld"],
+	"inwater": true,
+	"norestrictions": true,
+	"mindist": 16,
+	"maxdist": 96,
+	"minheight": 16,
+	"maxheight": 96,
+	"maxthis": 50
+	}
+},
+
+{
+"mob": "oceanicrealms:tuna",
+"persecond": 0.01,
+"attempts": 1,
+"amount": {"minimum": 20, "maximum": 90},
+"conditions": {
+	"dimension": ["minecraft:overworld"],
+	"inwater": true,
+	"norestrictions": true,
+	"mindist": 16,
+	"maxdist": 96,
+	"minheight": 16,
+	"maxheight": 96,
+	"maxthis": 50
+	}
 }
+
+
+
+
+
 
 ]
