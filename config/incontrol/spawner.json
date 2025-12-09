@@ -172,7 +172,7 @@
 
 {
 "mob": "alexsmobs:soul_vulture",
-"persecond": 0.1,
+"persecond": 0.05,
 "attempts": 1,
 "amount": {"minimum": 20, "maximum": 90},
 "conditions": {
@@ -285,7 +285,7 @@
 
 {
 "mob": "oceanicrealms:dolphinfish",
-"persecond": 0.05,
+"persecond": 0.025,
 "attempts": 1,
 "amount": {"minimum": 20, "maximum": 90},
 "conditions": {
@@ -302,7 +302,7 @@
 
 {
 "mob": "oceanicrealms:lionfish",
-"persecond": 0.06,
+"persecond": 0.03,
 "attempts": 1,
 "amount": {"minimum": 20, "maximum": 90},
 "conditions": {
@@ -319,7 +319,7 @@
 
 {
 "mob": "oceanicrealms:silver_pomfret_fish",
-"persecond": 0.07,
+"persecond": 0.035,
 "attempts": 1,
 "amount": {"minimum": 20, "maximum": 90},
 "conditions": {
@@ -336,7 +336,7 @@
 
 {
 "mob": "oceanicrealms:sailfish",
-"persecond": 0.08,
+"persecond": 0.04,
 "attempts": 1,
 "amount": {"minimum": 20, "maximum": 90},
 "conditions": {
@@ -353,7 +353,7 @@
 
 {
 "mob": "oceanicrealms:mackerel_fish",
-"persecond": 0.09,
+"persecond": 0.045,
 "attempts": 1,
 "amount": {"minimum": 20, "maximum": 90},
 "conditions": {
@@ -370,7 +370,7 @@
 
 {
 "mob": "oceanicrealms:tuna",
-"persecond": 0.01,
+"persecond": 0.005,
 "attempts": 1,
 "amount": {"minimum": 20, "maximum": 90},
 "conditions": {
