@@ -2,7 +2,7 @@
 
 {
 "mob": "minecraft:skeleton",
-"persecond": 0.01,
+"persecond": 0.02,
 "attempts": 10,
 "amount": {"minimum": 20, "maximum": 90},
 "conditions": {
@@ -13,36 +13,6 @@
 	"maxthis": 150
 	}
 },
-
-{
-"mob": "minecraft:zombie",
-"persecond": 0.01,
-"attempts": 10,
-"amount": {"minimum": 20, "maximum": 90},
-"conditions": {
-	"dimension": ["minecraft:overworld"],
-	"norestrictions": true,
-	"mindist": 32,
-	"maxdist": 80,
-	"maxthis": 150
-	}
-},
-
-{
-"mob": "minecraft:drowned",
-"persecond": 0.01,
-"attempts": 10,
-"amount": {"minimum": 20, "maximum": 90},
-"conditions": {
-	"dimension": ["minecraft:overworld"],
-	"inwater": true,
-	"norestrictions": true,	
-	"mindist": 32,
-	"maxdist": 80,
-	"maxthis": 150
-	}
-},
-
 
 {
 "mob": "aquamirae:tortured_soul",
