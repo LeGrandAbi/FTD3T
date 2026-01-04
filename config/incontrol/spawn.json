@@ -76,6 +76,12 @@
   },
 
   {
+    "mob": "alexsmobs:farseer",
+    "when": "onjoin",
+    "result": "deny"
+  },
+
+  {
     "mob": "alexsmobs:dropbear",
     "dimension": "minecraft:the_nether",
     "minheight": 128,
