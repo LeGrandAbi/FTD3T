@@ -224,7 +224,7 @@
 
 {
 "mob": "alexsmobs:seagull",
-"persecond": 0.03,
+"persecond": 0.02,
 "attempts": 1,
 "amount": {"minimum": 20, "maximum": 90},
 "conditions": {
