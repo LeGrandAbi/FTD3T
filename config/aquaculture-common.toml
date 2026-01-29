@@ -16,5 +16,5 @@
 	"Enable recipes for Neptunium items?" = true
 	"Enable recipes for Neptunium armor?" = true
 	#Should Neptune's bounty be added as fishing loot? Very rare.
-	"Add Neptune's Bounty as loot?" = true
+	"Add Neptune's Bounty as loot?" = false
 
