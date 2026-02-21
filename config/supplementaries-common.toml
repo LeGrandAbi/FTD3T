@@ -189,7 +189,7 @@
 			"#alexscaves:cave_paintings" = "alexscaves:smooth_limestone"
 
 	[functional.cannon]
-		enabled = true
+		enabled = false
 		#Makes TNT-like block shot from a cannon explode on impact
 		#Allowed Values: IGNITE, IGNITE_ON_IMPACT, NONE
 		explode_tnt = "IGNITE"
@@ -205,7 +205,7 @@
 		music_disc_heave_ho = true
 
 		[functional.cannon.cannonball]
-			enabled = true
+			enabled = false
 			#Cannonball power scaling. Higher values will make cannonballs have more energy. Reminder that the damage and breaking power of a cannonball is proportional to its energy (speed squared) times this constant
 			#Range: 0.0 ~ 100.0
 			power_scaling = 3.5
@@ -402,7 +402,7 @@
 	confetti_popper = true
 
 	[tools.quiver]
-		enabled = true
+		enabled = false
 		#Allows using a quiver without being slowed down
 		use_without_slow = true
 		#Arrow stacks that can fit inside a quiver. Requires reboot
@@ -454,7 +454,7 @@
 		bypass_when_on = "MAIN_HAND"
 
 	[tools.rope_arrow]
-		enabled = true
+		enabled = false
 		#Max number of rope items allowed to be stored inside a rope arrow
 		#Range: 1 ~ 256
 		capacity = 32
